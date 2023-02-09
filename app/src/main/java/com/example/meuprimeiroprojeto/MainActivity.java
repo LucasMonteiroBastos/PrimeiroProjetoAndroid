@@ -7,6 +7,9 @@ import android.os.Bundle;
 
 // revisão get and set
 
+// aula teorica
+// tipos de layout
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
